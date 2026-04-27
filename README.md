@@ -1,6 +1,6 @@
 # Hi, I'm Tien Nguyen 👋
 
-## Product Manager / Product Owner for B2B, fintech, and AI-enabled workflows
+## Product Manager / Product Owner for B2B, fintech, and AI-native workflows
 
 I turn product ambiguity into code-ready requirements: clear specs, user stories, edge cases, acceptance criteria, and delivery plans.
 
