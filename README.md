@@ -81,6 +81,6 @@ Domains:     B2B SaaS, fintech, payments, ecommerce, marketplace, AI workflows
 
 <div align="center">
 
-**Clear requirements. Faster delivery. Better engineering handoff.**
+**The smaller and weirder, the better.**
 
 </div>
