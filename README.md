@@ -75,7 +75,6 @@ Domains:     B2B SaaS, fintech, payments, ecommerce, marketplace, AI workflows
 ## Connect
 
 - LinkedIn: [linkedin.com/in/tiennguyenthithao](https://www.linkedin.com/in/tiennguyenthithao/)
-- Website: [tiennguyentt.github.io](https://tiennguyentt.github.io/)
 - Email: [tiennguyentthao@gmail.com](mailto:tiennguyentthao@gmail.com)
 
 ---
