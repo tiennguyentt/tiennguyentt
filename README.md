@@ -1,86 +1,50 @@
-# Hi, I'm Tien Nguyen 👋
+<p align="center">
+  <svg width="52" height="52" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="20" cy="20" r="17" fill="none" stroke="#4cc9b0" stroke-width="1.5"/>
+    <text x="20" y="25" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="600" fill="#0f2233" letter-spacing="-0.5">TN</text>
+  </svg>
+</p>
 
-## Product Manager / Product Owner for B2B, fintech, and AI-native workflows
+<h1 align="center">Tien Nguyen</h1>
 
-I turn product ambiguity into code-ready requirements: clear specs, user stories, edge cases, acceptance criteria, and delivery plans.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiennguyenthithao/">
+    <img src="https://img.shields.io/badge/LinkedIn-tiennguyenthithao-4cc9b0?style=flat-square&logo=Linkedin&logoColor=4cc9b0&labelColor=0f2233&color=0f2233">
+  </a>
+  &nbsp;
+  <a href="https://github.com/tiennguyentt">
+    <img src="https://img.shields.io/badge/GitHub-tiennguyentt-4cc9b0?style=flat-square&logo=github&logoColor=4cc9b0&labelColor=0f2233&color=0f2233">
+  </a>
+  &nbsp;
+  <a href="mailto:tiennguyentthao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tiennguyentthao-4cc9b0?style=flat-square&logo=Gmail&logoColor=4cc9b0&labelColor=0f2233&color=0f2233">
+  </a>
+</p>
 
-My background in full stack development helps me work closely with engineers, review technical tradeoffs, and use AI agents to move faster without losing product rigor.
+**Focus:** `Product Management` · `B2B SaaS` · `Fintech & Payments` · `Web3 Wallets` · `AI-native delivery`
 
----
+Product Manager / Owner. I turn ambiguous product problems into something engineers can build without a second meeting: scope decided, edge cases named, acceptance criteria you can actually test.
 
-## What I Do
+I started in full-stack development, so specs are where I'm at home. I read the technical tradeoffs myself, decide them before the sprint instead of during it, and would rather cut scope than ship a vague flow. These days I lean on AI agents to draft requirements and prototypes, which leaves the team's time for the decisions that actually need a human.
 
-- Define product scope from business goals and user problems
-- Write specs engineers can actually build from
-- Map flows, edge cases, acceptance criteria, and release risks
-- Manage backlog, sprint planning, stakeholder alignment, and delivery
-- Use AI agents for prototyping, documentation, requirement review, and workflow automation
+### Selected work
 
----
+**Colonial Surety** — *B2B fintech, payments*
+Owned the product side of a payment-gateway migration from **Transax to CardPointe** across **three production platforms**, working through **Fiserv PCI** certification with engineering and compliance under a hard deadline. Also shipped insurance-bundling logic and a partner SSO flow.
 
-## Proof Points
+**Hoookie** — *Web3, fintech*
+Product owner for a non-custodial, cross-chain wallet — KYC/AML, fiat-crypto bridging, settlement, and trading workflows — plus Telegram-integrated tools for the **TON** ecosystem and **Bittensor**.
 
-### Payment & Platform Delivery
+**Olmo** — *marketplace, mobile*
+Led delivery with a **12-person scrum team** on a livestream-and-marketplace app. Reworked the mobile booking flow, which lifted bookings **~30%**.
 
-- Supported payment gateway migration from Transax to CardPointe across 3 production platforms
-- Worked through Fiserv PCI certification requirements
-- Coordinated product, engineering, and compliance under deadline pressure
+### Toolkit
 
-### Fintech & Web3 Product Ownership
+`Discovery` · `PRD / BRD` · `User stories & AC` · `Scenario matrices` · `Scrum & backlog refinement` · `Release tracking` · `Figma` · `Amplitude` · `Jira` · `Linear` · `Notion` · `GitHub` · `Claude` · `Cursor`
 
-- Owned requirements for a non-custodial cross-chain wallet
-- Worked on KYC/AML, fiat-crypto bridging, settlement flows, and trading workflows
-- Supported Telegram-integrated tools for the TON ecosystem
+### Elsewhere
 
-### Marketplace & Mobile Product Growth
+- LinkedIn — [tiennguyenthithao](https://www.linkedin.com/in/tiennguyenthithao/)
+- Email — [tiennguyentthao@gmail.com](mailto:tiennguyentthao@gmail.com)
 
-- Led delivery with a 12-person scrum team
-- Shipped livestream and marketplace product flows
-- Improved mobile booking UX, contributing to a 30% booking increase
-
----
-
-## Stack
-
-```text
-Product:     Discovery, PRD, BRD, user stories, AC, scenario matrices
-Delivery:    Scrum, backlog refinement, sprint planning, release tracking
-Design:      Figma, user flows, wireframes
-Analytics:   Amplitude, funnels, product metrics
-Tools:       Jira, Linear, Notion, GitHub, Claude, Cursor
-Domains:     B2B SaaS, fintech, payments, ecommerce, marketplace, AI workflows
-```
-
----
-
-## Selected Work
-
-### Colonial Surety
-
-- Product work across payment migration, insurance bundling logic, and partner SSO
-- Focus: CardPointe, PCI readiness, B2B partner integration, SSO provider flow
-
-### Hoookie
-
-- Product ownership for wallet, trading, and prediction market workflows
-- Focus: non-custodial wallet, fiat-crypto bridge, KYC/AML, TON, Bittensor
-
-### Olmo
-
-- Product delivery for livestream and marketplace app
-- Focus: mobile booking flow, commerce UX, scrum delivery
-
----
-
-## Connect
-
-- LinkedIn: [linkedin.com/in/tiennguyenthithao](https://www.linkedin.com/in/tiennguyenthithao/)
-- Email: [tiennguyentthao@gmail.com](mailto:tiennguyentthao@gmail.com)
-
----
-
-<div align="center">
-
-**The smaller and weirder, the better.**
-
-</div>
+> Good product work is mostly deciding what not to build.
