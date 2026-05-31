@@ -22,7 +22,7 @@
 
 **Not AI-assisted. Agent-operated.** I built a multi-model agent system (Claude and Codex today, model-agnostic by design) that operates my PM work, from research and discovery to source-traced, graded specs engineering builds from without follow-up questions. I own the product calls, read the diff, and sign off. Ex-full-stack engineer, so I read the code, not just the roadmap.
 
-5+ years across B2B fintech, payments, insurance, e-commerce, ERP, and web3, from 0-to-1 launches to enterprise product.
+5+ years across B2B fintech, payments, insurance, e-commerce, and ERP, from 0-to-1 launches to enterprise product.
 
 `Fiserv PCI passed` · `7-product insurance bundling` · `400ms cross-chain settlements` · `137% backtest ROI` · `+30% bookings`
 
@@ -41,7 +41,7 @@ Led a 12-person scrum team and reworked the mobile booking flow for a 30% lift i
 
 **PM intelligence system.** A multi-model agent system (Claude and Codex) on the Karpathy LLM Knowledge Base pattern that turns transcripts into source-traced, graded specs, with my review and sign-off.
 
-**Recon.** An autonomous crypto and AI research pipeline: daily reports, project audits, and signal predictions, run by Claude Code agents and delivered to a dashboard and Telegram.
+**Recon.** An autonomous crypto and AI research pipeline: daily reports, project audits, and signal predictions, run by Claude Code agents and delivered to a dashboard and Telegram. Its own scoring engine grades signals and tracks prediction accuracy.
 
 **Petmood.** AI pet-health triage for Vietnam: a photo plus symptoms returns a triage level and nearby vet options.
 
