@@ -1,0 +1,7 @@
+[2026-05-31T10:19:22.163Z] GET https://tiennguyentt.github.io/?v=m1 → 200 (856ms, ?B)
+[2026-05-31T10:19:23.023Z] GET https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap → pending (?ms, ?B)
+[2026-05-31T10:19:23.024Z] GET https://tiennguyentt.github.io/style.css → pending (?ms, ?B)
+[2026-05-31T10:19:23.105Z] GET https://tiennguyentt.github.io/main.js → 200 (304ms, 2124B)
+[2026-05-31T10:19:24.468Z] GET https://fonts.gstatic.com/s/ibmplexsans/v23/zYXzKVElMYYaJe8bpLHnCwDKr932-G7dytD-Dmu1syxeKYbSB4Zh.woff2 → pending (?ms, ?B)
+[2026-05-31T10:19:24.468Z] GET https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2 → pending (?ms, ?B)
+[2026-05-31T10:19:24.469Z] GET https://fonts.gstatic.com/s/jetbrainsmono/v24/tDbv2o-flEEny0FZhsfKu5WU4zr3E_BX0PnT8RD8yKwBNntkaToggR7BYRbKPxDcwgknk-4.woff2 → pending (?ms, ?B)

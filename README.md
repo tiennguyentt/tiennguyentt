@@ -20,16 +20,16 @@
 
 ---
 
-I built the agent system that runs my PM workflow. Meeting transcripts compile into a source-traced wiki, conflicts resolve against a truth hierarchy, and every spec is graded before engineering sees it. I run the system, review the output, and sign off. Ex-full-stack engineer, so I read the code, not just the roadmap.
+**Not AI-assisted. Agent-operated.** I built a multi-model agent system (Claude and Codex today, model-agnostic by design) that operates my PM work, from research and discovery to source-traced, graded specs engineering builds from without follow-up questions. I own the product calls, read the diff, and sign off. Ex-full-stack engineer, so I read the code, not just the roadmap.
 
 5+ years across B2B fintech, payments, insurance, e-commerce, ERP, and web3, from 0-to-1 launches to enterprise product.
 
-`Fiserv PCI passed` · `400ms cross-chain settlements` · `137% backtest ROI` · `+30% bookings`
+`Fiserv PCI passed` · `7-product insurance bundling` · `400ms cross-chain settlements` · `137% backtest ROI` · `+30% bookings`
 
 ### Selected work
 
 **Colonial Surety** · Product Management Engineer · Feb 2026 to present
-Fiserv PCI passed on an emergency Transax to CardPointe migration across 3 platforms. Designed 7-product insurance bundling and a B2B SSO provider.
+Fiserv PCI passed on an emergency gateway migration across 3 platforms. Designed 7-product insurance bundling and a B2B single sign-on provider.
 
 **Hoookie** · Product Owner · 2023 to 2025 · web3, fintech
 Non-custodial cross-chain wallet (400ms settlements, KYC/AML), an autonomous on-chain prediction-market fund (137% backtest ROI), and aVault plus aLink.
@@ -39,17 +39,19 @@ Led a 12-person scrum team and reworked the mobile booking flow for a 30% lift i
 
 ### AI-native building
 
-**PM intelligence system.** A Claude Code agent system on the Karpathy LLM Knowledge Base pattern that turns transcripts into source-traced, graded specs.
+**PM intelligence system.** A multi-model agent system (Claude and Codex) on the Karpathy LLM Knowledge Base pattern that turns transcripts into source-traced, graded specs, with my review and sign-off.
 
-**Recon.** An autonomous crypto and AI research pipeline: daily reports, project audits, and signal predictions, run by Claude Code agents and delivered to Telegram.
+**Recon.** An autonomous crypto and AI research pipeline: daily reports, project audits, and signal predictions, run by Claude Code agents and delivered to a dashboard and Telegram.
 
-**Petmood.** AI pet-health triage for Vietnam: a photo plus symptoms returns a triage level and the nearest vet.
+**Petmood.** AI pet-health triage for Vietnam: a photo plus symptoms returns a triage level and nearby vet options.
 
 **AnDigi.** An agent-operated insurance app for Vietnam, in design.
 
+**AI agent operations for SMEs.** Moving a fashion-retail SME to an agent-operated model department by department: marketing and content, customer service, operations and inventory, and back office. Advisory.
+
 ### Expert PM skills
 
-Discovery and problem framing · Requirements (PRD, BRD, SRS) · Spec quality and provenance · Roadmapping and delivery · Stakeholder and cross-functional leadership · AI-native PM operations, including AI agent operations for SMEs
+AI-native PM operations (agent-orchestrated specs, human sign-off, AI agent operations for SMEs) · Spec quality and provenance · Requirements (PRD, BRD, SRS) · Discovery, roadmap, and delivery · Stakeholder and cross-functional leadership
 
 ---
 
