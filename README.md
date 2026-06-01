@@ -25,41 +25,39 @@
 ---
 
 > **Not AI-assisted. Agent-operated.**
-> I run my PM work through a multi-model agent system I built — Claude and Codex today, model-agnostic by design. I own the calls, read the diff, and sign off.
+> I run my PM work through a multi-model agent system I built. Claude and Codex today, model-agnostic by design. I own the calls, read the diff, and sign off.
 
-5+ years across B2B fintech, payments, insurance, e-commerce, and ERP — 0-to-1 to enterprise. Ex-full-stack engineer.
+5+ years across B2B fintech, payments, insurance, e-commerce, and ERP, from 0-to-1 launches to enterprise product. Ex-full-stack engineer.
 
 ### What I do
 
-- **Operate an agent stack as my PM team** — research, discovery, and source-traced, graded specs with no follow-up hand-holding.
-- **Own product end to end** — I read the code and the diff, not just the roadmap.
-- **Ship in regulated domains** — payments, insurance, and web3, where "passed compliance" is the spec.
+- **Operate an agent stack as my PM team:** research, discovery, and source-traced, graded specs with no follow-up hand-holding.
+- **Own product end to end:** I read the code and the diff, not just the roadmap.
+- **Ship in regulated domains:** payments, insurance, and web3, where "passed compliance" is the spec.
 
 ### Selected work
 
-- **Colonial Surety** · PM Engineer · Feb 2026 – Present<br>
+- **Colonial Surety** &nbsp;·&nbsp; PM Engineer &nbsp;·&nbsp; Feb 2026 to Present<br>
   Drove Fiserv PCI to a pass on an emergency 3-platform gateway migration. Designed 7-product insurance bundling and a B2B single sign-on provider.
-- **Hoookie** · Product Owner · 2023 – 2025 · web3 · fintech<br>
+- **Hoookie** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2023 to 2025 &nbsp;·&nbsp; web3 · fintech<br>
   Non-custodial cross-chain wallet (400ms settlements, KYC/AML) and an autonomous on-chain prediction-market fund (137% backtest ROI).
-- **Olmo** · Product Owner · 2022 – 2023<br>
+- **Olmo** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2022 to 2023<br>
   Led a 12-person scrum team and reworked the mobile booking flow for a +30% lift in bookings.
 
 ### AI-native building
 
-- **PM intelligence system** — agent system (Claude + Codex) on the Karpathy LLM-Knowledge-Base pattern; turns transcripts into source-traced, graded specs with my sign-off.
-- **Recon** — autonomous crypto and AI research pipeline; daily reports, audits, and signal predictions, with a scoring engine that grades signals and tracks accuracy.
-- **Petmood** — AI pet-health triage for Vietnam: a photo plus symptoms returns a triage level and nearby vets.
-- **AnDigi** — agent-operated insurance app for Vietnam (in design).
-- **AI agent operations for SMEs** — moving a fashion-retail SME to an agent-operated model, department by department. Advisory.
-
-<sub>**Open source** &nbsp;·&nbsp; <a href="https://github.com/tiennguyentt/hermes-agent">hermes-agent</a> &nbsp;·&nbsp; <a href="https://github.com/tiennguyentt/mempalace">mempalace</a> &nbsp;·&nbsp; <a href="https://github.com/tiennguyentt/gbrain">gbrain</a> &nbsp;·&nbsp; <a href="https://github.com/tiennguyentt/andrej-karpathy-skills">andrej-karpathy-skills</a></sub>
+- **PM intelligence system:** agent system (Claude + Codex) on the Karpathy LLM-Knowledge-Base pattern that turns transcripts into source-traced, graded specs, with my review and sign-off.
+- **Recon:** autonomous crypto and AI research pipeline; daily reports, audits, and signal predictions, with a scoring engine that grades signals and tracks accuracy.
+- **Petmood:** AI pet-health triage for Vietnam; a photo plus symptoms returns a triage level and nearby vets.
+- **AnDigi:** agent-operated insurance app for Vietnam, in design.
+- **AI agent operations for SMEs:** moving a fashion-retail SME to an agent-operated model, department by department. Advisory.
 
 ### Expert PM skills
 
-- **AI-native PM operations** — agent-orchestrated specs, human sign-off, AI agent ops for SMEs
-- **Spec quality and provenance** · Requirements (PRD, BRD, SRS)
-- **Delivery** — discovery, roadmap, and delivery · stakeholder and cross-functional leadership
+- **AI-native PM operations:** agent-orchestrated specs, human sign-off, AI agent ops for SMEs
+- **Spec quality and provenance** &nbsp;·&nbsp; Requirements (PRD, BRD, SRS)
+- **Delivery and leadership:** discovery, roadmap, delivery, stakeholder and cross-functional leadership
 
 ---
 
-<p align="center"><a href="https://tiennguyentt.github.io/">Full portfolio at tiennguyentt.github.io →</a></p>
+<p align="center"><a href="https://tiennguyentt.github.io/">Full portfolio at tiennguyentt.github.io</a></p>
