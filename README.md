@@ -1,7 +1,7 @@
 <p align="center">
   <svg width="54" height="54" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
     <rect x="3" y="3" width="34" height="34" rx="9" fill="none" stroke="#7C8CFF" stroke-width="1.5"/>
-    <text x="20" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#7C8CFF">TN</text>
+    <text x="20" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="600" fill="#7C8CFF">TIEN</text>
   </svg>
 </p>
 
