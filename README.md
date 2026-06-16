@@ -19,44 +19,44 @@
 </p>
 
 <p align="center">
-  <code>Fiserv PCI passed</code> &nbsp;·&nbsp; <code>400ms cross-chain settlements</code> &nbsp;·&nbsp; <code>137% backtest ROI</code> &nbsp;·&nbsp; <code>+30% bookings</code>
+  <code>PCI gateway migration</code> &nbsp;·&nbsp; <code>Keeta 400ms payments</code> &nbsp;·&nbsp; <code>137% backtest ROI</code> &nbsp;·&nbsp; <code>+30% bookings</code>
 </p>
 
 ---
 
-> **Not AI-assisted. Agent-operated.**
-> I run my PM work through a multi-model agent system I built. Claude and Codex today, model-agnostic by design. I own the calls, read the diff, and sign off.
+> **Agents do the work. I stay accountable for every release.**
+> I lead agentic AI workflows from ambiguous discovery through governed production, running my PM work through a multi-model agent system I built. Claude and Codex today, model-agnostic by design. I own the calls, read the diff, and sign off.
 
-5+ years across B2B fintech, payments, insurance, e-commerce, and ERP, from 0-to-1 launches to enterprise product. Ex-full-stack engineer.
+7 years spanning discovery to production across regulated fintech, insurance, and payments, from 0-to-1 launches to enterprise product. Ex-full-stack engineer.
 
 ### What I do
 
-- **Operate an agent stack as my PM team:** research, discovery, and source-traced, graded specs with no follow-up hand-holding.
+- **Operate an agent stack as my PM team:** research, discovery, and source-traced, graded specs with human sign-off gates and no follow-up hand-holding.
 - **Own product end to end:** I read the code and the diff, not just the roadmap.
-- **Ship in regulated domains:** payments, insurance, and web3, where "passed compliance" is the spec.
+- **Ship in regulated domains:** fintech, insurance, and payments, where "passed compliance" is the spec.
 
 ### Selected work
 
-- **Colonial Surety** &nbsp;·&nbsp; PM Engineer &nbsp;·&nbsp; Feb 2026 to Present<br>
-  Drove Fiserv PCI to a pass on an emergency 3-platform gateway migration. Designed 7-product insurance bundling and a B2B single sign-on provider.
-- **Hoookie** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2023 to 2025 &nbsp;·&nbsp; web3 · fintech<br>
-  Non-custodial cross-chain wallet (400ms settlements, KYC/AML) and an autonomous on-chain prediction-market fund (137% backtest ROI).
-- **Olmo** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2022 to 2023<br>
-  Led a 12-person scrum team and reworked the mobile booking flow for a +30% lift in bookings.
+- **Colonial Surety** &nbsp;·&nbsp; Product Management Engineer &nbsp;·&nbsp; Feb 2026 to Present<br>
+  Led an emergency PCI gateway migration under deadline pressure. Designed seven insurance products into one unified flow and scoped a B2B single sign-on from ambiguous direction. Owns the controls on an agent-operated PM workflow with source tracing and sign-off.
+- **Hoookie JSC** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2023 to 2025 &nbsp;·&nbsp; forward-deployed client services<br>
+  Delivered for cross-border clients from a Vietnam base. Defined requirements for Keeta (US payments network targeting 400ms on Google Cloud Spanner) and built Sire.bot, a trading system with 137% cumulative return in a two-month backtest.
+- **Olmo Technology** &nbsp;·&nbsp; Product Owner &nbsp;·&nbsp; 2022 to 2023<br>
+  Ran onsite customer discovery and led a 12-person scrum team. Reworked the mobile booking flow for a +30% lift in bookings.
 
 ### AI-native building
 
-- **PM intelligence system:** agent system (Claude + Codex) on the Karpathy LLM-Knowledge-Base pattern that turns transcripts into source-traced, graded specs, with my review and sign-off.
-- **Recon:** autonomous crypto and AI research pipeline; daily reports, audits, and signal predictions, with a scoring engine that grades signals and tracks accuracy.
+- **Knowledge Engine:** a public demo of how agent teams run a real product-team workflow, on the Karpathy LLM-Knowledge-Base pattern, model-agnostic across Claude and Codex. &nbsp;[demo](https://tienntt-knowledge-engine.streamlit.app/) · [code](https://github.com/tiennguyentt/knowledge-engine)
+- **Recon:** autonomous AI research pipeline; Claude Code agents score signals for relevance and predictive weight, with accuracy tracked over time. &nbsp;[demo](https://tienntt-recon.streamlit.app/)
+- **Sport Quant:** prediction-market terminal on an Elo and Dixon-Coles ensemble with deterministic bet-sizing gates and fractional Kelly. &nbsp;[demo](https://tienntt-sport-quant.streamlit.app/) · [code](https://github.com/tiennguyentt/sport-quant)
 - **Petmood:** AI pet-health triage for Vietnam; a photo plus symptoms returns a triage level and nearby vets.
-- **AnDigi:** agent-operated insurance app for Vietnam, in design.
-- **AI agent operations for SMEs:** moving a fashion-retail SME to an agent-operated model, department by department. Advisory.
+- **AnDigi:** agent-operated insurance app for Vietnam, quote to AI-assisted claims, in progress.
 
 ### Expert PM skills
 
-- **AI-native PM operations:** agent-orchestrated specs, human sign-off, AI agent ops for SMEs
-- **Spec quality and provenance** &nbsp;·&nbsp; Requirements (PRD, BRD, SRS)
-- **Delivery and leadership:** discovery, roadmap, delivery, stakeholder and cross-functional leadership
+- **Deployment delivery:** discovery, scoping, success metrics, integration planning, production launch, adoption, risk removal
+- **AI systems and controls:** context engineering, evaluation criteria, human sign-off gates, agent workflows, APIs/MCP, source tracing, observability, model selection
+- **Stakeholder leadership:** cross-functional alignment, spec development (PRD, BRD, SRS), executive communication, scrum delivery
 
 ---
 
