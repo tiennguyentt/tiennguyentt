@@ -10,7 +10,7 @@
 
 **Focus:** `AI Product Manager` - `AI Product Lead` - `AI Agents` - `Agent Orchestration` - `Fintech Payments`
 
-I am an AI Product Lead. I build Aomi, an AI agent platform for small and medium businesses.
+I am an AI Product Lead. I build Aomi, an AI agent platform for enterprises and SMEs.
 
 Earlier, I was Technical PO for agent orchestration at GSM. I named what each AI agent was responsible for. Before release, I required an approval gate and a verification gate.
 
