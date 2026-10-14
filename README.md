@@ -10,9 +10,15 @@
 
 **Focus:** `AI Product Manager` - `AI Product Lead` - `AI Agents` - `Agent Orchestration` - `Fintech Payments`
 
-AI Product Lead building Aomi, an AI agent platform for small and medium businesses, with experience in AI agents, agent orchestration, and fintech payments. Earlier, as Technical PO for agent orchestration at GSM (Green SM, formerly Xanh SM), I named what each AI agent was responsible for and required an approval gate and a verification gate before release. GSM is a company with Vietnam's #1 ride-hailing platform, 80M+ app downloads, ~290K EVs in 8 countries, and over US$1B GMV in 2025. A PCI payment gateway cutover that I led covered 3 live platforms, and I designed one application flow for 7 insurance products.
+I am an AI Product Lead. I build Aomi, an AI agent platform for small and medium businesses.
 
-Targeting AI Product Lead and AI Product Manager roles where the work is AI agents, agent orchestration, and fintech payments.
+Earlier, I was Technical PO for agent orchestration at GSM. I named what each AI agent was responsible for. Before release, I required an approval gate and a verification gate.
+
+GSM is Green SM, formerly Xanh SM. The company has Vietnam's #1 ride-hailing platform. The GSM app has 80M+ downloads. In 8 countries, GSM has ~290K electric vehicles. In 2025, GSM had over US$1B in gross merchandise value.
+
+I led a PCI payment gateway cutover across 3 live platforms. I designed one application flow for 7 insurance products.
+
+I want AI Product Lead and AI Product Manager roles in AI agents, agent orchestration, and fintech payments.
 
 See [tiennguyentt.github.io](https://tiennguyentt.github.io/) for case studies and live demos.
 
