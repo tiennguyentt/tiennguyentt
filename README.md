@@ -10,14 +10,16 @@
 
 **Focus:** `AI Product Manager` - `AI Product Lead` - `AI Agents` - `Agent Orchestration` - `Fintech Payments`
 
-AI Product Lead. I run AI agents in real operations. I define what each agent owns, and I set the approval and verification gates that check its work before release. I am building Aomi, an AI agent platform for small and medium businesses.
+AI Product Lead building Aomi, an AI agent platform for small and medium businesses, with experience in AI agents, agent orchestration, and fintech payments. Earlier, as Technical PO for agent orchestration at GSM (Green SM, formerly Xanh SM), I named what each AI agent was responsible for and required an approval gate and a verification gate before release. GSM is a company with Vietnam's #1 ride-hailing platform, 80M+ app downloads, ~290K EVs in 8 countries, and over US$1B GMV in 2025. A PCI payment gateway cutover that I led covered 3 live platforms, and I designed one application flow for 7 insurance products.
 
-Before that, I ran agent orchestration as Technical PO at GSM (Green SM, formerly Xanh SM). GSM is the #1 ride-hailing platform in Vietnam, with a fleet of ~290K EVs in 8 countries in 2026.
-
-In fintech, I led a PCI payment gateway cutover across 3 live platforms. I also designed one application flow for 7 insurance products.
+Targeting AI Product Lead and AI Product Manager roles where the work is AI agents, agent orchestration, and fintech payments.
 
 See [tiennguyentt.github.io](https://tiennguyentt.github.io/) for case studies and live demos.
 
-### Stack
+### Skills
 
-`Python` - `TypeScript` - `React` - `Astro` - `Claude` - `Cursor` - `Streamlit` - `Cloudflare` - `Vercel` - `Linear` - `Notion` - `Figma` - `Slack`
+**AI & Agents:** multi-agent orchestration, human-in-the-loop approval, LLM evaluation and release gates
+
+**Product:** 0-to-1 AI products, product strategy and specs, cross-functional delivery
+
+**Fintech & Payments:** PCI payment systems, payment gateway migration, digital insurance and booking flows
