@@ -18,8 +18,12 @@ See [tiennguyentt.github.io](https://tiennguyentt.github.io/) for case studies a
 
 ### Skills
 
-**AI & Agents:** multi-agent orchestration, human-in-the-loop approval, LLM evaluation and release gates
+**GenAI & Agentic:** multi-agent orchestration, human-in-the-loop approval workflows, LLM evaluation and release gates, prompt and spec design
 
-**Product:** 0-to-1 AI products, product strategy and specs, cross-functional delivery
+**Product:** 0-to-1 AI products, PRDs and acceptance criteria, roadmap and prioritization, cross-functional delivery
 
-**Fintech & Payments:** PCI payment systems, payment gateway migration, digital insurance and booking flows
+**Experimentation & Quality:** release gates, acceptance testing, verification before launch
+
+**Fintech & Payments:** PCI payment systems, gateway migration, wallet, insurance and booking flows
+
+**Leadership:** running AI agent teams, stakeholder communication, vendor and partner coordination
